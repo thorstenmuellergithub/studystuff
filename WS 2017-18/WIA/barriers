@@ -1,0 +1,103 @@
+Organisatorisch:
+    obtaining the current version of the source code[1,3]
+    No access to the source code[1]
+    Inadequate procedures[2,3]
+    poor task management[2]
+    information overload[2]
+    Bureaucracy[3]
+    outdated issues [10]
+
+    Fails of newcomers:
+        dont know the contribution flow[16]
+        choose a wrong/huge task[10]
+        finding a task according to their profile / to start with [4,6,10,16,17,18]
+        finding a task that they could solve within the time window [4,6]
+        identifying the skills a task requires [5]
+        afraid to introduce new bugs by submitting the patch[8] / lack of newcomer commitment [6]
+        reproducing issues [16]
+        finding the correct artifacts [16,18]
+    
+Technical:
+    reproducing the problem [1]
+    rebuilding the system [1,3,4,6,8,16,17,18]
+    problems understanding code structure or architecture [2,6]
+    redundant work [3]
+    find the specific code [1,3,6,16]
+    issue tracker [3]
+    platform dependencies [6,16]
+    library dependencies [6,16]
+    codebase size [6,16]
+    bad quality of code [6,16]
+    lack of code standards [6,16]
+    outdated code [6,16]
+    understanding the code [16,17]
+    understanding the flow of information [16]
+    code instability [16,18]
+    bad design of code [16]
+
+Documentation Problems:
+    lack of documentation [2,4,6,10,16,17]
+    problems related to task documentation [2]
+    documentation [3]
+    spread documentation [6,16]
+    unclear documentation [6,16]
+    outdated documentation [6,16,17,18]
+    incomplete/outdate tutorials [10,16]
+    code comments not clear[16,17,18]
+    information overload[16,17,18
+    
+    Details of lack of documentation:
+        lack of ducmentation on project structure [6,16]
+        lack of contribution process documentation [6]
+        lack of documentation on setting up the workspace [6,16]
+        lack of desgin documents [16]
+        lack of code comments [16]
+        lack of code documentation [16]
+
+
+Social Interaction Problems:
+    language barrier [2,16]
+    community problems [3,18]
+    delay in receiving feedback on the task sent [4,16]
+    not receiving feedback on the task sent [4]
+    finding a mentor [6,16,17,18]
+    impolite answers [6,7,16,17,18] -> use of intimidating terms and abbrevations [6]
+    delayed responses or no answers [6,16,17,18]
+    didnt get the support to start [7]
+    answers with too advanced details [16]
+    need to contact a real person [16,17]
+    newcomers dont send a meaningful message [16,18]
+
+Newcomers Knowledge:
+    previous knowledge on project tooling [6,16]
+    choosing the right tooling [6]
+    previous knowledge on VCS [6,16]
+    lack of knowledge on technologies used [6,16]
+    lack of knowledge on programming language [6,16]
+    learning curve [6]
+    learning curve of project tooling [6]
+    lack of knowledge / domain expertise [9,16,17,18]
+    lack of choosing the right development tools [16]
+    lack of knowlege on experience testing [16]
+    lack of technical experiences [17,18]
+    no knowledge in project process technique [16,17,18]
+
+Other Hurdles:
+    submitting it [1,3,9,10,16]
+    lack of time [9]
+    entry difficulties [9]
+    lack of confidence [9,16]
+    have questioned answered by other newcomers [7]
+    memeber tude [3]
+    get the contribution accepted [16]
+    create a patch [16]
+
+Newcomers Behavior:
+    Lack of proactivity [16]
+    lack of commitment [16]
+    Underestimating the challenge [16]
+    Lack of patience [16]
+    dont be thankful for answers [16]
+    create useless topics in forums [16]
+    dont respond ofte [16]
+    

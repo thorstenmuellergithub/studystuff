@@ -1,0 +1,19 @@
+Aufgabe1 ???????
+mysql> SELECT COUNT(*) FROM t_buecher;
+mysql> SELECT COUNT(*) FROM t_leser;
+mysql> SELECT t_leser.nr, t_verleih.leser FROM t_leser, t_verleih
+    -> GROUP BY nr HAVING COUNT(leser)>1;
+
+Aufgabe2
+mysql> CREATE TABLE t_mess (nr INTEGER AUTO_INCREMENT PRIMARY KEY, wert INTEGER);
+mysql> INSERT INTO t_mess (wert) VALUES(RAND());        - 12 mal
+mysql> SELECT COUNT(nr) FROM t_mess;
+mysql> SELECT ROUND(AVG(wert),2) AS Avg, MIN(wert) AS Min, MAX(wert) AS max FROM t_mess;
+
+
+Aufgabe3
+mysql> SELECT t_leser.nr, t_verleih.leser, t_verleih.isbn, t_leser.name, t_leser.vname  FROM t_leser, t_verleih WHERE t_leser.nr=t_verleih.leser;
+mysql> SELECT t_leser.nr, t_verleih.leser, t_verleih.isbn, t_leser.name, t_leser.vname  FROM t_leser, t_verleih WHERE t_leser.nr=t_verleih.leser ORDER BY(t_leser.name);
+mysql> SELECT t_leser.nr, t_leser.name, t_leser.vname, t_verleih.isbn, t_verleih.leser FROM t_leser CROSS JOIN t_verleih WHERE t_leser.nr=t_verleih.leser;
+mysql> SELECT t_leser.nr, t_leser.name, t_leser.vname, t_verleih.isbn, t_verleih.leser, t_buecher.titel FROM t_leser INNER JOIN t_verleih ON t_leser.nr=t_verleih.leser INNER JOIN t_buecher ON t_verleih.isbn=t_buecher.isbn;
+

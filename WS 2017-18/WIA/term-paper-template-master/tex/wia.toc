@@ -1,0 +1,49 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Research Method}{2}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}State of the art}{2}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Crowdsourcing models}{2}{subsection.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Levels of Crowdsourcing}{3}{subsection.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Motivation for software crowdsourcing}{3}{section.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Stakeholder Perspectives}{3}{subsection.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Contributor Perspectives}{3}{subsection.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}barriers faced by newcomers}{4}{section.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Organizational}{4}{subsection.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Social Interaction}{6}{subsection.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Documentation Problems}{6}{subsection.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Technical hurdles}{6}{subsection.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Newcomers own barriers}{7}{subsection.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.1}Newcomers behaviour}{7}{subsubsection.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.2}Newcomers knowledge}{7}{subsubsection.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.3}Fails of newcomers}{7}{subsubsection.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Support newcomer to overcome the barriers's}{8}{section.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{9}{section.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Figures}{9}{section.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tables}{9}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbreviations}{9}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{9}{section*.36}

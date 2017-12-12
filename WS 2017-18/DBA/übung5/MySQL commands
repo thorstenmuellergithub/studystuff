@@ -1,0 +1,54 @@
+Aufgabe 1
+mysql> CREATE TABLE t_artikel(id INTEGER PRIMARY KEY AUTO_INCREMENT NOT NULL, name TEXT, vname TEXT);
+mysql> DROP TABLE t_artikel;
+mysql> DROP DATABASE dba03;
+
+
+Aufgabe 2
+mysql> CREATE DATABASE dba03;
+mysql> CREATE TABLE t_person(id INTEGER PRIMARY KEY AUTO_INCREMENT NOT NULL, vorname TEXT NOT NULL, nachname TEXT NOT NULL);
+mysql> ALTER TABLE t_person ADD (lebenslauf BLOB);
+mysql> ALTER TABLE t_person ADD (beschaeftigt_seit DATE);
+mysql> ALTER TABLE t_person DROP COLUMN beschaeftigt_seit;
+mysql> DROP TABLE t_person;
+
+Aufgabe 3
+mysql> CREATE TABLE t_lager (stueckzahl INTEGER  DEFAULT 1, preis DECIMAL(5,2) NOT NULL); -> DECIMAL(X,Y) X ist vorm komma Y ist danach (10000.00 ausprobieren)!!!!
+mysql> ALTER TABLE t_lager ADD (name VARCHAR(100));
+mysql> SHOW FIELDS FROM t_lager;
+mysql> INSERT INTO t_lager(stueckzahl, preis, name) VALUES (88, 2.99,"Kugelschreiber");
+mysql> INSERT INTO t_lager(stueckzahl, preis, name) VALUES (67, 2.5,"Ornder");
+mysql> INSERT INTO t_lager(stueckzahl, preis, name) VALUES (423, 0.99,"Heftklammern");
+mysql> INSERT INTO t_lager(stueckzahl, preis, name) VALUES (88, 0.99,"Bleistift");
+mysql> INSERT INTO t_lager(stueckzahl, preis, name) VALUES (67, 0.8,"Umschläge C6");
+mysql> SELECT * FROM t_lager;
+mysql> DELETE FROM t_lager WHERE name ="Ordner";
+Bleistifte ändern ist böse -> Nachfragen!
+mysql> UPDATE t_lager SET preis=2.8 WHERE name="Ornder";
+mysql> UPDATE t_lager SET name="Ordner" WHERE name="Ornder";
+mysql > SELECT * FROM t_lager;
+mysql> UPDATE t_lager SET name="Ordner", preis=2.8 WHERE name="Ornder";
+
+Aufgabe 4
+mysql> CREATE TABLE t_ma_dt (name VARCHAR(100), vorname VARCHAR(100), strasse VARCHAR(100), ort VARCHAR(100), plz INTEGER, mensch_alter INTEGER);
+mysql> SHOW FIELDS FROM t_ma_dt;
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Haas", "Elsbeth", "Berliner Str.223", "Offenbach", 63067, 42);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Richter", "Hans", "Frankfurter Str. 61", "Offenbach", 63067, 42);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Friedrich", "Imgard", "Goethestr. 61", "Offenbach", 63067, 42);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Hartmann", "Jochen", "Berliner Str.223", "Frankfurt", 60528, 29);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Goldbach", "Martin", "Frankfurter Str. 61", "Frankfurt", 60528, 35);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Naumann", "Norbert", "Goethestr. 61", "Frankfurt", 60594, 38);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Haas", "Tanja", "Berliner Str.223", "Hannover", 30323, 36);
+mysql> INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Neppe", "Martin", "Goethestr. 61", "Hannover", 30324, 43);
+SELECT * FROM t_ma_dt;
+mysql> DELETE FROM t_ma_dt WHERE name="Hartmann";
+INSERT INTO t_ma_dt (name, vorname, strasse, ort, plz, mensch_alter) VALUES ("Hartmann", "Jochen", "Berliner Str.223", "Frankfurt", 60528, 29);
+SELECT * FROM t_ma_dt;
+mysql> CREATE TABLE t_ma_frankfurt SELECT * FROM t_ma_dt WHERE ort="Frankfurt" OR ort="Hannover";
+mysql> UPDATE t_ma_frankfurt SET ort="Frankfurt/Main" WHERE ort="Frankfurt";
+
+
+
+
+DUMB
+SOURCE -> command um scripte auszuführen

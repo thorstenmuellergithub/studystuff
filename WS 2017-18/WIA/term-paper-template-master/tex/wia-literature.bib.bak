@@ -1,0 +1,453 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@InProceedings{Bassil2001,
+  Title                    = {Software visualization tools: survey and analysis},
+  Author                   = {S. Bassil and R. K. Keller},
+  Booktitle                = {Proceedings 9th International Workshop on Program Comprehension. IWPC 2001},
+  Year                     = {2001},
+  Pages                    = {7-17},
+
+  Doi                      = {10.1109/WPC.2001.921708},
+  ISSN                     = {1092-8138},
+  Keywords                 = {program visualisation;reverse engineering;software maintenance;software tools;code analysis;cognitive issues;program comprehension;software maintenance;software visualization tools;survey;Assembly;Collaborative software;Councils;Software design;Software engineering;Software systems;Software tools;Springs;Taxonomy;Visualization}
+}
+
+@InProceedings{Chen2015,
+  Title                    = {Successful or unsuccessful open source software projects: What is the key?},
+  Author                   = {X. Chen and D. Probert and Y. Zhou and J. Su},
+  Booktitle                = {2015 Science and Information Conference (SAI)},
+  Year                     = {2015},
+  Month                    = {July},
+  Pages                    = {277-282},
+
+  Doi                      = {10.1109/SAI.2015.7237155},
+  Keywords                 = {distributed processing;organisational aspects;public domain software;social networking (online);cross-case analysis;data collection;distributed innovation;influence shared knowledge;knowledge sharing;open source software projects;organizational culture;participative motivation;social network;user innovation;within-case analysis;Collaboration;Computers;Knowledge engineering;Open source software;Social network services;Technological innovation;Influencing Factors;Open Source Software Projects;User Innovation;knowledge Sharing}
+}
+
+@Article{Estelles-Arolas2012,
+  Title                    = {Towards an integrated crowdsourcing definition},
+  Author                   = {Enrique Estellés-Arolas and Fernando González-Ladrón-de-Guevara},
+  Journal                  = {Journal of Information Science},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {189-200},
+  Volume                   = {38},
+
+  Abstract                 = { ‘Crowdsourcing’ is a relatively recent concept that encompasses many practices. This diversity leads to the blurring of the limits of crowdsourcing that may be identified virtually with any type of internet-based collaborative activity, such as co-creation or user innovation. Varying definitions of crowdsourcing exist, and therefore some authors present certain specific examples of crowdsourcing as paradigmatic, while others present the same examples as the opposite. In this article, existing definitions of crowdsourcing are analysed to extract common elements and to establish the basic characteristics of any crowdsourcing initiative. Based on these existing definitions, an exhaustive and consistent definition for crowdsourcing is presented and contrasted in 11 cases. },
+  Doi                      = {10.1177/0165551512437638},
+  Eprint                   = { 
+ https://doi.org/10.1177/0165551512437638
+ 
+},
+  Url                      = { 
+ https://doi.org/10.1177/0165551512437638
+ 
+}
+}
+
+@InProceedings{Hannebauer2014,
+  Title                    = {An Exploratory Study of Contribution Barriers Experienced by Newcomers to Open Source Software Projects},
+  Author                   = {Hannebauer, Christoph and Book, Matthias and Gruhn, Volker},
+  Booktitle                = {Proceedings of the 1st International Workshop on CrowdSourcing in Software Engineering},
+  Year                     = {2014},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {11--14},
+  Publisher                = {ACM},
+  Series                   = {CSI-SE 2014},
+
+  Acmid                    = {2593732},
+  Doi                      = {10.1145/2593728.2593732},
+  ISBN                     = {978-1-4503-2857-9},
+  Keywords                 = {FLOSS, contribution barrier, motivation, survey},
+  Location                 = {Hyderabad, India},
+  Numpages                 = {4},
+  Url                      = {http://doi.acm.org/10.1145/2593728.2593732}
+}
+
+@InProceedings{Hannebauer2017,
+  Title                    = {On the Relationship Between Newcomer Motivations and Contribution Barriers in Open Source Projects},
+  Author                   = {Hannebauer, Christoph and Gruhn, Volker},
+  Booktitle                = {Proceedings of the 13th International Symposium on Open Collaboration},
+  Year                     = {2017},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {2:1--2:10},
+  Publisher                = {ACM},
+  Series                   = {OpenSym '17},
+
+  Acmid                    = {3125446},
+  Articleno                = {2},
+  Doi                      = {10.1145/3125433.3125446},
+  ISBN                     = {978-1-4503-5187-4},
+  Keywords                 = {Contribution Barriers, Newcomers, Open Source, Survey},
+  Location                 = {Galway, Ireland},
+  Numpages                 = {10},
+  Url                      = {http://doi.acm.org/10.1145/3125433.3125446}
+}
+
+@InProceedings{Hossain2012,
+  Title                    = {Crowdsourcing: Activities, incentives and users' motivations to participate},
+  Author                   = {M. Hossain},
+  Booktitle                = {2012 International Conference on Innovation Management and Technology Research},
+  Year                     = {2012},
+  Month                    = {May},
+  Pages                    = {501-506},
+
+  Doi                      = {10.1109/ICIMTR.2012.6236447},
+  Keywords                 = {Internet;business data processing;incentive schemes;organisational aspects;social networking (online);Internet;companies;consumer needs;idea design;idea innovation;idea sharing;incentive structure;information analysis;information collection;online community members;online crowdsourcing platforms;platform geographical origins;user participation motivations;Communities;Companies;Educational institutions;Internet;Open source software;Problem-solving;Technological innovation;Crowdsourcing;Incentive;Motivation;Online Communities;Users' Participation}
+}
+
+@InProceedings{Hossain2012a,
+  Title                    = {Users' motivation to participate in online crowdsourcing platforms},
+  Author                   = {M. Hossain},
+  Booktitle                = {2012 International Conference on Innovation Management and Technology Research},
+  Year                     = {2012},
+  Month                    = {May},
+  Pages                    = {310-315},
+
+  Doi                      = {10.1109/ICIMTR.2012.6236409},
+  Keywords                 = {human factors;social networking (online);global companies;incentives;motivational factors;online crowdsourcing platform;user motivation;Communities;Companies;Educational institutions;Internet;Open source software;Psychology;Technological innovation;Crowdsourcing;Incentive;Motivation;Online Community;Online Platform}
+}
+
+@Article{Huhns2013,
+  Title                    = {{Cloud-based Software Crowdsourcing (Dagstuhl Seminar 13362)}},
+  Author                   = {Michael N. Huhns and Wei Li and Wei-Tek Tsai},
+  Journal                  = {Dagstuhl Reports},
+  Year                     = {2013},
+  Number                   = {9},
+  Pages                    = {34--58},
+  Volume                   = {3},
+
+  Address                  = {Dagstuhl, Germany},
+  Annote                   = {Keywords: Crowdsourcing, Software Development, Cloud Computing},
+  Doi                      = {10.4230/DagRep.3.9.34},
+  Editor                   = {Michael N. Huhns and Wei Li and Wei-Tek Tsai},
+  ISSN                     = {2192-5283},
+  Publisher                = {Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  Url                      = {http://drops.dagstuhl.de/opus/volltexte/2013/4355},
+  Urn                      = {urn:nbn:de:0030-drops-43555}
+}
+
+@Article{LaToza2016,
+  Title                    = {Crowdsourcing in Software Engineering: Models, Motivations, and Challenges},
+  Author                   = {T. D. LaToza and A. van der Hoek},
+  Journal                  = {IEEE Software},
+  Year                     = {2016},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {74-80},
+  Volume                   = {33},
+
+  Doi                      = {10.1109/MS.2016.12},
+  ISSN                     = {0740-7459},
+  Keywords                 = {outsourcing;software engineering;UI design;bug squashing;crowdsourcing;software development projects;software engineering;software testing;Companies;Crowdsourcing;Production facilities;Software develoment;Software engineering;Testing;crowdsourcing;microtasking;open innovation;peer production;programming teams;software development;software development competitions;software engineering;software management;staffing}
+}
+
+@InProceedings{Leano2016,
+  Title                    = {Labeling relevant skills in tasks: Can the crowd help?},
+  Author                   = {R. Leano and Z. Wang and A. Sarma},
+  Booktitle                = {2016 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  Year                     = {2016},
+  Month                    = {Sept},
+  Pages                    = {185-189},
+
+  Doi                      = {10.1109/VLHCC.2016.7739683},
+  Keywords                 = {software engineering;task analysis;crowd-based approach;relevant skills labeling;software development;task assignment;C++ languages;crowdsourcing;skill;task context}
+}
+
+@InProceedings{Lee2017,
+  Title                    = {Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey},
+  Author                   = {A. Lee and J. C. Carver and A. Bosu},
+  Booktitle                = {2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)},
+  Year                     = {2017},
+  Month                    = {May},
+  Pages                    = {187-197},
+
+  Doi                      = {10.1109/ICSE.2017.25},
+  Keywords                 = {project management;public domain software;software engineering;FLOSS projects;OTC;free-Libre open source software project;one time code contributors;Computer bugs;Computer science;Concrete;Electronic mail;Encoding;Open source software;Tools;FLOSS;Newcomers;OSS;One Time Contributors;Open source;Qualitative Research;Survey}
+}
+
+@InProceedings{Machado2016,
+  Title                    = {Breaking Collaboration Barriers through Communication Practices in Software Crowdsourcing},
+  Author                   = {L. Machado and J. Kroll and S. Marczak and R. Prikladnicki},
+  Booktitle                = {2016 IEEE 11th International Conference on Global Software Engineering (ICGSE)},
+  Year                     = {2016},
+  Month                    = {Aug},
+  Pages                    = {44-48},
+
+  Doi                      = {10.1109/ICGSE.2016.32},
+  ISSN                     = {2329-6313},
+  Keywords                 = {software engineering;SE;SW CS;collaboration barriers;qualitative data analysis;software crowdsourcing;software engineering;software industry;Asynchronous communication;Collaboration;Context;Crowdsourcing;Real-time systems;Social network services;Software;Barrier;Collaboratio;Communication;Crowdsourcing;Issue;Practice;Software Engineering}
+}
+
+@InProceedings{Machado2017,
+  Title                    = {The Good, the Bad and the Ugly: An Onboard Journey in Software Crowdsourcing Competitive Model},
+  Author                   = {Machado, Leticia and Zanatta, Alexandre and Marczak, Sabrina and Prikladnicki, Rafael},
+  Booktitle                = {Proceedings of the 4th International Workshop on CrowdSourcing in Software Engineering},
+  Year                     = {2017},
+
+  Address                  = {Piscataway, NJ, USA},
+  Pages                    = {2--8},
+  Publisher                = {IEEE Press},
+  Series                   = {CSI-SE '17},
+
+  Acmid                    = {3100550},
+  Doi                      = {10.1109/CSI-SE.2017.6},
+  ISBN                     = {978-1-5386-4041-8},
+  Keywords                 = {TopCoder, crowdsourcing, newcomers, software development competitive model},
+  Location                 = {Buenos Aires, Argentina},
+  Numpages                 = {7},
+  Url                      = {https://doi.org/10.1109/CSI-SE.2017.6}
+}
+
+@InProceedings{Park2009,
+  Title                    = {Beyond pretty pictures: Examining the benefits of code visualization for Open Source newcomers},
+  Author                   = {Y. Park and C. Jensen},
+  Booktitle                = {2009 5th IEEE International Workshop on Visualizing Software for Understanding and Analysis},
+  Year                     = {2009},
+  Month                    = {Sept},
+  Pages                    = {3-10},
+
+  Doi                      = {10.1109/VISSOF.2009.5336433},
+  Keywords                 = {information needs;program visualisation;public domain software;code visualization;code visualization tools;information needs;information visualization;open source newcomers;open source software;project information;steep learning curve;Computer bugs;Computer science;History;Joining IEEE;Joining processes;Open source software;Software debugging;Visualization;Writing}
+}
+
+@Article{Riehle2007,
+  Title                    = {The Economic Motivation of Open Source Software: Stakeholder Perspectives},
+  Author                   = {D. Riehle},
+  Journal                  = {Computer},
+  Year                     = {2007},
+
+  Month                    = {April},
+  Number                   = {4},
+  Pages                    = {25-32},
+  Volume                   = {40},
+
+  Doi                      = {10.1109/MC.2007.147},
+  ISSN                     = {0018-9162},
+  Keywords                 = {DP industry;profitability;public domain software;consulting services;job security;open source software economic motivation;profitability;software cost savings;software development management;software ecosystem;stakeholder perspective;Boosting;Business;Companies;Costs;Ecosystems;Environmental economics;Hardware;Licenses;Open source software;Web server;open source software;software development}
+}
+
+@Article{Ryan2000,
+  Title                    = {Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions},
+  Author                   = {Richard M. Ryan and Edward L. Deci},
+  Journal                  = {Contemporary Educational Psychology},
+  Year                     = {2000},
+  Number                   = {1},
+  Pages                    = {54 - 67},
+  Volume                   = {25},
+
+  Doi                      = {https://doi.org/10.1006/ceps.1999.1020},
+  ISSN                     = {0361-476X},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0361476X99910202}
+}
+
+@InProceedings{Steinmacher2014a,
+  Title                    = {Preliminary Empirical Identification of Barriers Faced by Newcomers to Open Source Software Projects},
+  Author                   = {I. Steinmacher and A. P. Chaves and T. U. Conte and M. A. Gerosa},
+  Booktitle                = {2014 Brazilian Symposium on Software Engineering},
+  Year                     = {2014},
+  Month                    = {Sept},
+  Pages                    = {51-60},
+
+  Doi                      = {10.1109/SBES.2014.9},
+  Keywords                 = {digital libraries;project management;public domain software;query processing;backward snowballing;conceptual model;cultural differences;data sources;digital libraries;documentation problems;empirical barrier identification;experienced members;graduate student feedback;grounded theory axial coding;grounded theory open coding;newcomer OSS project onboarding;newcomer characteristics;open source software projects;orientation;outsider contribution;project sustainability;qualitative study;reception issues;recurrent barriers;semistructured interviews;systematic literature review;technical hurdles;undergraduate student feedback;Bibliographies;Communities;Documentation;Encoding;Interviews;Software;Systematics;newcomers;onboarding;open source software;qualitative analysis;systematic literature review}
+}
+
+@InProceedings{Steinmacher2015b,
+  Title                    = {Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects},
+  Author                   = {Steinmacher, Igor and Conte, Tayana and Gerosa, Marco Aur{\'e}lio and Redmiles, David},
+  Booktitle                = {Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work \&\#38; Social Computing},
+  Year                     = {2015},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {1379--1392},
+  Publisher                = {ACM},
+  Series                   = {CSCW '15},
+
+  Acmid                    = {2675215},
+  Doi                      = {10.1145/2675133.2675215},
+  ISBN                     = {978-1-4503-2922-4},
+  Keywords                 = {barriers, entry, joining, new contributor, newcomers, onboarding, online communities, open collaboration, open source software, qualitative study, social barriers, socialization},
+  Location                 = {Vancouver, BC, Canada},
+  Numpages                 = {14},
+  Url                      = {http://doi.acm.org/10.1145/2675133.2675215}
+}
+
+@InProceedings{Steinmacher2015c,
+  Title                    = {Understanding and Supporting the Choice of an Appropriate Task to Start with in Open Source Software Communities},
+  Author                   = {I. Steinmacher and T. U. Conte and M. A. Gerosa},
+  Booktitle                = {2015 48th Hawaii International Conference on System Sciences},
+  Year                     = {2015},
+  Month                    = {Jan},
+  Pages                    = {5299-5308},
+
+  Doi                      = {10.1109/HICSS.2015.624},
+  ISSN                     = {1530-1605},
+  Keywords                 = {project management;public domain software;software management;OSS project;axial coding;grounded theory;open coding;open source software community;open source software project;qualitative analysis;sustainability;Communities;Electronic mail;Encoding;Interviews;Joining processes;Open source software;Open Source Software;coordination;joining process;new developer;newcomers;onboarding;task selection}
+}
+
+@InProceedings{Steinmacher2016,
+  Title                    = {Overcoming Open Source Project Entry Barriers with a Portal for Newcomers},
+  Author                   = {Steinmacher, Igor and Conte, Tayana Uchoa and Treude, Christoph and Gerosa, Marco Aur{\'e}lio},
+  Booktitle                = {Proceedings of the 38th International Conference on Software Engineering},
+  Year                     = {2016},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {273--284},
+  Publisher                = {ACM},
+  Series                   = {ICSE '16},
+
+  Acmid                    = {2884806},
+  Doi                      = {10.1145/2884781.2884806},
+  ISBN                     = {978-1-4503-3900-1},
+  Keywords                 = {barriers, beginners, joining process, newbies, newcomers, novices, obstacles, onboarding, open source software},
+  Location                 = {Austin, Texas},
+  Numpages                 = {12},
+  Url                      = {http://doi.acm.org/10.1145/2884781.2884806}
+}
+
+@InBook{Steinmacher2014,
+  Title                    = {Barriers Faced by Newcomers to Open Source Projects: A Systematic Review},
+  Author                   = {Steinmacher, Igor
+and Silva, Marco Aur{\'e}lio Graciotto
+and Gerosa, Marco Aur{\'e}lio},
+  Editor                   = {Corral, Luis
+and Sillitti, Alberto
+and Succi, Giancarlo
+and Vlasenko, Jelena
+and Wasserman, Anthony I.},
+  Pages                    = {153--163},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2014},
+
+  Address                  = {Berlin, Heidelberg},
+
+  Abstract                 = {To remain sustainable, some open source projects need a constant influx of new volunteers, or newcomers. However, the newcomers face different kinds of problems when onboarding to a project. In this paper we present the results of a systematic literature review aiming at identifying the barriers that a newcomer can face when contributing to an Open Source Software project. We identified and analyzed 21 studies that evidence this kind of problem. As a result we provide a hierarchical model that relies on five categories of barriers: finding a way to start, social interactions, code issues, documentation problems and newcomers' knowledge. The most evidenced barriers are newcomers' previous technical skills, receiving response from community, centrality of social contacts, and finding the appropriate way to start contributing. This classification provides a baseline for further researches related to newcomers onboarding.},
+  Booktitle                = {Open Source Software: Mobile Open Source Technologies: 10th IFIP WG 2.13 International Conference on Open Source Systems, OSS 2014, San Jos{\'e}, Costa Rica, May 6-9, 2014. Proceedings},
+  Doi                      = {10.1007/978-3-642-55128-4_21},
+  ISBN                     = {978-3-642-55128-4},
+  Url                      = {https://doi.org/10.1007/978-3-642-55128-4_21}
+}
+
+@Article{Steinmacher2015a,
+  Title                    = {A systematic literature review on the barriers faced by newcomers to open source software projects},
+  Author                   = {Igor Steinmacher and Marco Aurelio Graciotto Silva and Marco Aurelio Gerosa and David F. Redmiles},
+  Journal                  = {Information and Software Technology},
+  Year                     = {2015},
+  Number                   = {Supplement C},
+  Pages                    = {67 - 85},
+  Volume                   = {59},
+
+  Doi                      = {https://doi.org/10.1016/j.infsof.2014.11.001},
+  ISSN                     = {0950-5849},
+  Keywords                 = {Open source software, Newcomers, Joining, Barriers to entry, Onboarding, Systematic literature review},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0950584914002390}
+}
+
+@InProceedings{Steinmacher2013,
+  Title                    = {Why do newcomers abandon open source software projects?},
+  Author                   = {I. Steinmacher and I. Wiese and A. P. Chaves and M. A. Gerosa},
+  Booktitle                = {2013 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)},
+  Year                     = {2013},
+  Month                    = {May},
+  Pages                    = {25-32},
+
+  Doi                      = {10.1109/CHASE.2013.6614728},
+  Keywords                 = {groupware;public domain software;software development management;Hadoop Common project;collaboration;open source software project;Brain modeling;Communities;Data mining;Electronic mail;Open source software;Newcomer;collaboration;communication;open source software;retention}
+}
+
+@InProceedings{Steinmacher2015,
+  Title                    = {Increasing the Self-Efficacy of Newcomers to Open Source Software Projects},
+  Author                   = {I. Steinmacher and I. Wiese and T. U. Conte and M. A. Gerosa},
+  Booktitle                = {2015 29th Brazilian Symposium on Software Engineering},
+  Year                     = {2015},
+  Month                    = {Sept},
+  Pages                    = {160-169},
+
+  __markedentry            = {[thorsten:5]},
+  Doi                      = {10.1109/SBES.2015.10},
+  Keywords                 = {computer science education;human factors;portals;project management;public domain software;software management;FLOSScoach portal;OSS project;case group;community-based open source software projects;control group;distributed volunteers;newcomer perceived efficacy evaluation;newcomer self-efficacy improvement;project information;self-organized dynamic projects;technical barriers;Cultural differences;Documentation;Face;Interviews;Open source software;Portals;contribution barriers;newcomers;onboarding;open source;self-efficacy}
+}
+
+@InProceedings{Steinmacher2014b,
+  Title                    = {The Hard Life of Open Source Software Project Newcomers},
+  Author                   = {Steinmacher, Igor and Wiese, Igor Scaliante and Conte, Tayana and Gerosa, Marco Aur{\'e}lio and Redmiles, David},
+  Booktitle                = {Proceedings of the 7th International Workshop on Cooperative and Human Aspects of Software Engineering},
+  Year                     = {2014},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {72--78},
+  Publisher                = {ACM},
+  Series                   = {CHASE 2014},
+
+  Acmid                    = {2593704},
+  Doi                      = {10.1145/2593702.2593704},
+  ISBN                     = {978-1-4503-2860-9},
+  Keywords                 = {Open Source Software, barrier, newcomers, qualitative analysis},
+  Location                 = {Hyderabad, India},
+  Numpages                 = {7},
+  Url                      = {http://doi.acm.org/10.1145/2593702.2593704}
+}
+
+@Article{Tsai2014,
+  Title                    = {Cloud-Based Software Crowdsourcing},
+  Author                   = {W. T. Tsai and W. Wu and M. N. Huhns},
+  Journal                  = {IEEE Internet Computing},
+  Year                     = {2014},
+
+  Month                    = {May},
+  Number                   = {3},
+  Pages                    = {78-83},
+  Volume                   = {18},
+
+  Doi                      = {10.1109/MIC.2014.46},
+  ISSN                     = {1089-7801},
+  Keywords                 = {cloud computing;software engineering;agile programming;cloud-based software crowdsourcing;computational resources;pair programming;scrum programming;service-oriented computing;software development;waterfall;Cloud computing;Collaboration;Computer architecture;Crowdsourcing;Encoding;Testing;PaaS;crowdsourcing;platform-as-a-service;software development}
+}
+
+@InProceedings{Wolff-Marting2013,
+  Title                    = {Patterns for tearing down contribution barriers to FLOSS projects},
+  Author                   = {V. Wolff-Marting and C. Hannebauer and V. Gruhn},
+  Booktitle                = {2013 IEEE 12th International Conference on Intelligent Software Methodologies, Tools and Techniques (SoMeT)},
+  Year                     = {2013},
+  Month                    = {Sept},
+  Pages                    = {9-14},
+
+  Doi                      = {10.1109/SoMeT.2013.6645669},
+  Keywords                 = {program compilers;project management;public domain software;software management;FLOSS project contribution barriers;FLOSS project source code compilation;executable application;free-libre-and-open source software project;Electronic publishing;Information services;Internet}
+}
+
+@InProceedings{Ye2003,
+  Title                    = {Toward an understanding of the motivation of open source software developers},
+  Author                   = {Yunwen Ye and K. Kishida},
+  Booktitle                = {25th International Conference on Software Engineering, 2003. Proceedings.},
+  Year                     = {2003},
+  Month                    = {May},
+  Pages                    = {419-429},
+
+  Doi                      = {10.1109/ICSE.2003.1201220},
+  ISSN                     = {0270-5257},
+  Keywords                 = {human factors;public domain software;software engineering;learning theory;legitimate peripheral participation;motivation;open source software development;software engineering;Collaboration;Collaborative software;Computer languages;Computer science;Open source software;Software engineering}
+}
+
+@Article{Zanatta2017,
+  Title                    = {Barriers Faced by Newcomers to Software-Crowdsourcing Projects},
+  Author                   = {A. L. Zanatta and I. Steinmacher and L. S. Machado and C. R. B. de Souza and R. Prikladnicki},
+  Journal                  = {IEEE Software},
+  Year                     = {2017},
+
+  Month                    = {Mar},
+  Number                   = {2},
+  Pages                    = {37-43},
+  Volume                   = {34},
+
+  Doi                      = {10.1109/MS.2017.32},
+  ISSN                     = {0740-7459},
+  Keywords                 = {crowdsourcing;project management;software engineering;software management;code structure;consistent documentation;language barriers;newcomers;platform usability;poor task management;software crowdsourcing projects;software engineering;well-structured source code;winning algorithm;Crowdsourcing;Documentation;Open source software;Software development;Software engineering;Software testing;Usability;Topcoder;crowdsourcing;software crowdsourcing;software development;software engineering}
+}
+

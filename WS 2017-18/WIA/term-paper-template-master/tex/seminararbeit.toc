@@ -1,0 +1,27 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Research Method}{1}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}State of the art}{1}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Crowdsourcing models}{2}{subsection.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Levels of Crowdsourcing}{2}{subsection.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Motivation for software crowdsourcing}{2}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Stakeholder Perspectives}{3}{subsection.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Contributor Perspectives}{3}{subsection.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}The process of joining a OSS project}{3}{section.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}barriers faced by newcomers}{4}{section.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Support newcomer to overcome the barriers's}{5}{section.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}conclusion and future work}{5}{section.15}
